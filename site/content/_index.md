@@ -1,6 +1,6 @@
 ---
 title: Härliga recept för vardagen!
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Njut av vardagens matstunder!
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
